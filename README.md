@@ -3,7 +3,7 @@
 <div style="display: flex">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Shaharyar-saleem&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaharyar-saleem&layout=default" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaharyar-saleem&layout=compact" />
 
 </div>
 
@@ -26,5 +26,12 @@
    <img align="left" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
    
 </div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaharyar-saleem&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaharyar-saleem&layout=compact" />
+</a>
 
 
