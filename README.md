@@ -5,6 +5,8 @@ node was new and writing clean async code using promises was a sought-after skil
 javascript and React, work with various data stores, and on data streaming. Aside from tech I work out every morning, enjoy
 taking dance classes, and doing the occasional dance performance. Let’s build something awesome (and scalable) together. I
 would love to learn from you!
+Email Address: shaharyarsaleem71@gmail.com
+Contact Number: +49 015735346429
 
 <div style="display: flex">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Shaharyar-saleem&show_icons=true&theme=radical" />
