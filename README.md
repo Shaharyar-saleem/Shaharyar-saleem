@@ -1,5 +1,11 @@
 # Hi there I'm Shaharyar 🤝
 
+I am a web engineer with ~3 years of experience. I began my career as a full-stack engineer working with JavaScript when
+node was new and writing clean async code using promises was a sought-after skill. Nowadays, I build web applications in
+javascript and React, work with various data stores, and on data streaming. Aside from tech I work out every morning, enjoy
+taking dance classes, and doing the occasional dance performance. Let’s build something awesome (and scalable) together. I
+would love to learn from you!
+
 <div style="display: flex">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Shaharyar-saleem&show_icons=true&theme=radical" />
 
