@@ -2,8 +2,7 @@
 
 I am a web engineer with ~3 years of experience. I began my career as a full-stack engineer working with JavaScript when
 node was new and writing clean async code using promises was a sought-after skill. Nowadays, I build web applications in
-javascript and React, work with various data stores, and on data streaming. Aside from tech I work out every morning, enjoy
-taking dance classes, and doing the occasional dance performance. Let’s build something awesome (and scalable) together. I
+javascript and React, work with various data stores, and on data streaming. Aside from tech I love to travel different countries and explore. Let’s build something awesome (and scalable) together. I
 would love to learn from you!<br>
 Email Address: shaharyarsaleem71@gmail.com<br>
 Contact Number: +49 015735346429
