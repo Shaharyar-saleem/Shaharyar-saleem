@@ -7,8 +7,6 @@ Contact Number: +49 015735346429
 <div style="display: flex">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Shaharyar-saleem&show_icons=true&theme=radical" />
 
-//<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaharyar-saleem&layout=compact" />
-
 </div>
 
 <div style="display: flex; margin-top: 50px;">
