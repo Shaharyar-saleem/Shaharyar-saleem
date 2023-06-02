@@ -4,10 +4,10 @@ I am a web engineer with ~4 years of experience. I began my career as a frontend
 Email Address: shaharyarsaleem71@gmail.com<br>
 Contact Number: +49 015735346429
 
-<div style="display: flex">
+<!-- <div style="display: flex">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Shaharyar-saleem&show_icons=true&theme=radical" />
 
-</div>
+</div> -->
 
 <div style="display: flex; margin-top: 50px;">
    <img align="top" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
