@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shaharyar Saleem</h1>
-<h3 align="center">I am a web engineer with ~4 years of experience. I began my career as a frontend engineer. Nowadays, I build web applications in javascript and React, work with various data stores, and on data streaming. Aside from tech, I work out every morning, enjoy traveling the world, and do the occasional dance performance. Let’s build something awesome (and scalable) together. I would love to learn from you!<br></h3>
+<h1>Hi 👋, I'm Shaharyar Saleem</h1>
+<p>I am a web engineer with ~4 years of experience. I began my career as a frontend engineer. Nowadays, I build web applications in javascript and React, work with various data stores, and on data streaming. Aside from tech, I work out every morning, enjoy traveling the world, and do the occasional dance performance. Let’s build something awesome (and scalable) together. I would love to learn from you!<br></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmalisajjad&label=Profile%20views&color=0e75b6&style=flat" alt="hmalisajjad" /> </p>
 
