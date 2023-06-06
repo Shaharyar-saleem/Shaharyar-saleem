@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaharyar-saleem&label=Profile%20views&color=0e75b6&style=flat" alt="shaharyar-saleem" /> </p>
  
 <p display="flex">
+ <p width="50%" align="right"><a href="https://app.daily.dev/shaharyarsaleem"><img src="https://api.daily.dev/devcards/2930aa95b2894ac3bafa63957a41ba2e.png?r=gxt" width="400" alt="Shaharyar Saleem's Dev Card"/></a></p>
 <p align="left" width="30%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaharyar-saleem" alt="shaharyar-saleem" /></a> </p>
-<p width="50%" align="right"><a href="https://app.daily.dev/shaharyarsaleem"><img src="https://api.daily.dev/devcards/2930aa95b2894ac3bafa63957a41ba2e.png?r=gxt" width="400" alt="Shaharyar Saleem's Dev Card"/></a></p>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
